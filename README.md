@@ -97,7 +97,7 @@ print_escape
 Place your completed `print.sh` in `solutions/` and commit. Then link it here:
 
 ```
-[print.sh](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.sh)
+[print.sh](https://github.com/KonstantinM08/PP6/blob/master/solutions/print.sh)
 ```
 
 #### Reflection Questions
@@ -154,7 +154,7 @@ _start:
 **Solution Reference**
 
 ```
-[print.s](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.s)
+[print.s](https://github.com/KonstantinM08/PP6/blob/main/solutions/print.s)
 ```
 
 #### Reflection Questions
