@@ -154,7 +154,7 @@ _start:
 **Solution Reference**
 
 ```
-[print.s](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.s)
+[print.s](https://github.com/KonstantinM08/PP6/blob/main/solutions/print.s)
 ```
 
 #### Reflection Questions
