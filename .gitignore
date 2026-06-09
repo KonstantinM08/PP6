@@ -1,0 +1,8 @@
+*.o
+
+print
+print_c
+
+.DS_Store
+.vscode/
+*.swp
