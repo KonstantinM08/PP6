@@ -197,7 +197,7 @@ int main(void) {
 **Solution Reference**
 
 ```
-[[print.c](https://github.com/YOUR_USERNAME/REPO_NAME/blob/main/solutions/print.c)](https://github.com/KonstantinM08/PP6/blob/master/solutions/print.py)
+https://github.com/KonstantinM08/PP6/blob/71e2d186250ce164058ce7cae07cdec958cb30d0/solutions/print.py
 ```
 
 #### Reflection Questions
