@@ -97,7 +97,7 @@ print_escape
 Place your completed `print.sh` in `solutions/` and commit. Then link it here:
 
 ```
-[print.sh](https://github.com/KonstantinM08/PP6/blob/master/solutions/print.sh)
+[[print.sh](https://github.com/KonstantinM08/PP6/blob/master/solutions/print.sh)](https://github.com/KonstantinM08/PP6/blob/master/solutions/print.sh)
 ```
 
 #### Reflection Questions
@@ -246,8 +246,9 @@ if __name__ == "__main__":
 #### Reflection Questions
 
 1. **Is Python’s print behavior closer to Bash, Assembly, or C? Explain.**
-2. **Can you inspect a Python script’s binary with `objdump`? Why or why not?**
-
+Python's print behavior appears to be closer to Bash. By default, Pyhton automatically appends a newline character \n to the end of the line. A behavior similiar to echo. Neither Python nor echo requires the specification of the data type. 
+3. **Can you inspect a Python script’s binary with `objdump`? Why or why not?**
+No it is not possible. Python is not directly compiled to Assembly but interpreted to C first.
 ---
 
 **Remember:** Stop working after **90 minutes** and document where you stopped.
