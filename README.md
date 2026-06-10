@@ -103,9 +103,13 @@ Place your completed `print.sh` in `solutions/` and commit. Then link it here:
 #### Reflection Questions
 
 1. **What is the difference between `printf` and `echo` in Bash?**
-2. **What is the role of `~/.bashrc` in your shell environment?**
-3. **Explain the difference between sourcing (`source ~/.bashrc`) and executing (`./print.sh`).**
-
+`echo` is a simple and straightforward function for shell scripting. It attaches a new line after every call automatically.
+`printf` is a more complex way of printing simiar to C. It allows robust usage of format specifiers and escape sequences.
+3. **What is the role of `~/.bashrc` in your shell environment?**
+`~/.bashrc` is a shell script that runs every time a new interactive bash shell is started,
+used for custamization.
+4. **Explain the difference between sourcing (`source ~/.bashrc`) and executing (`./print.sh`).**
+executing ./print.sh runs the script directly inside the current shell. Sourcing spawns a new child process.Any environment modifications or variables created inside that script stay within that child shell and vanish as soon as the script finishes running, leaving your current terminal completely unaffected.
 ---
 
 ### Task 2: GAS Printing (32‑bit Linux)
